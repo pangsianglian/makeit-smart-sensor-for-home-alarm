@@ -1,5 +1,5 @@
 {
-    "name": "MakeIT Smart Sensor for Home Alarm",
+    "name": "MakeIT Smart Sensor for Home Fan and Alarm",
     "description": "",
     "dependencies": {
         "core": "*",
